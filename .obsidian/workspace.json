@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "0400f9cc3a939b81",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cb26c6870d3e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caeffc0c5c11b0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/마프 프로젝트 제안서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "마프 프로젝트 제안서"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "808f745c8dfe8a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ae73c772bbb0b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8c23aca393249e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "fbf4e3bf86217af6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "26f3ff42af4bd1a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "499c5633423a9040",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bbec87f7a483ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a86332cd74c15a8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/마프 프로젝트 제안서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "마프 프로젝트 제안서 의 백링크"
+            }
+          },
+          {
+            "id": "e78abc374302bf05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/마프 프로젝트 제안서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "마프 프로젝트 제안서 의 나가는 링크"
+            }
+          },
+          {
+            "id": "9e618ba47d80c159",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "70a2826e4849fffa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/마프 프로젝트 제안서.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "마프 프로젝트 제안서 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "caeffc0c5c11b0a0",
+  "lastOpenFiles": [
+    "wiki/rulette.md",
+    "wiki/game_system.md",
+    "wiki/emg.md",
+    "wiki/cpp-header-structure.md",
+    "wiki/마프 프로젝트 제안서.md",
+    "README.md",
+    "wiki/img/Screenshot 2025-05-01 at 19.54.34.png",
+    "wiki/img/Pasted image 20250503081728.png",
+    "wiki/물품구매계획서_마프_8_김동협_구매계획서.xlsx",
+    "wiki/마프 프로젝트 제안서.pptx",
+    "wiki/attachments"
+  ]
+}

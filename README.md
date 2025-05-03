@@ -1,9 +1,15 @@
 # AUE3034-project-group8
-
 미래자동차공학과 [AUE3034] 마이크로프로세서 과목 프로젝트
 
+# Team Members
+- 김동협 2020027301
+- 김민성 2021011803
+- 조민건 2021083318
 
+# Target: 필승 짱깸뽀
+- [[wiki/마프 프로젝트 제안서|마프 프로젝트 제안서]]
 ## 디렉터리 구조
+
 ```
 project_root/
 ├── uno/                        # Arduino Uno 관련 코드
@@ -37,7 +43,7 @@ project_root/
 │   ├── emg.md
 │   └── game_system.md
 │
-└── README.md 
+└── README.md
 ```
 
 ## 참고

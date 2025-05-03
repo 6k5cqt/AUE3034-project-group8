@@ -1,0 +1,7 @@
+{
+  "strictLineBreaks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./img",
+  "alwaysUpdateLinks": true
+}
