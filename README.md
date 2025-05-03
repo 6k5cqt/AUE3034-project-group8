@@ -4,4 +4,4 @@
 
 ## 참고
 
-[[wiki/cpp 파일 구조 (header 관리).md]]
+[cpp 파일 구조 (header 관리)](wiki/cpp 파일 구조 (header 관리).md)
