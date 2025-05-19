@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "wiki/마프_프로젝트_제안서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "마프_프로젝트_제안서"
             }
           }
         ]
@@ -170,9 +170,13 @@
   },
   "active": "8715f60a3ff39ba1",
   "lastOpenFiles": [
+    "wiki/~$물품구매계획서_마프_8조_김동협_구매계획서_2차.xlsx",
+    "wiki/~$물품구매계획서_마프_8조_김동협_구매계획서.xlsx",
+    "wiki/물품구매계획서_마프_8조_김동협_구매계획서_2차.xlsx",
+    "wiki/물품구매계획서_마프_8조_김동협_구매계획서.xlsx",
+    "README.md",
     "wiki/rulette.md",
     "wiki/마프_프로젝트_제안서.md",
-    "README.md",
     "wiki/마프.md",
     "wiki/cpp-header-structure.md",
     "wiki/emg.md",
