@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3ebe276ab293f76",
+        "id": "daffc9b6e578f83c",
         "type": "tabs",
         "children": [
           {
-            "id": "8715f60a3ff39ba1",
+            "id": "1e1ac1da0fc8a709",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,19 +168,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8715f60a3ff39ba1",
+  "active": "1e1ac1da0fc8a709",
   "lastOpenFiles": [
+    "README.md",
+    "wiki/rulette.md",
+    "wiki/game_system.md",
+    "wiki/emg.md",
+    "wiki/cpp-header-structure.md",
+    "wiki/마프_프로젝트_제안서.md",
     "wiki/~$물품구매계획서_마프_8조_김동협_구매계획서_2차.xlsx",
     "wiki/~$물품구매계획서_마프_8조_김동협_구매계획서.xlsx",
     "wiki/물품구매계획서_마프_8조_김동협_구매계획서_2차.xlsx",
     "wiki/물품구매계획서_마프_8조_김동협_구매계획서.xlsx",
-    "README.md",
-    "wiki/rulette.md",
-    "wiki/마프_프로젝트_제안서.md",
     "wiki/마프.md",
-    "wiki/cpp-header-structure.md",
-    "wiki/emg.md",
-    "wiki/game_system.md",
     "wiki/img/Screenshot 2025-05-01 at 19.54.34.png",
     "wiki/img/Pasted image 20250503081728.png",
     "wiki/물품구매계획서_마프_8_김동협_구매계획서.xlsx",
