@@ -1,4 +1,4 @@
-#define SENSOR_PIN 0x04 // 적외선 센서를 연결한 interrupt pin == 8번핀
+#define SENSOR_PIN 0x04 // 적외선 센서를 연결한 interrupt pin == 2번핀
 #define RESET_BUTTON 0x80 // 동전 카운팅 초기화 시킬 버튼 == 7번핀
 #define LED_1 0x01 // 동전 카운팅 LED 1 == 8번핀
 #define LED_2 0x02 // 동전 카운팅 LED 2 == 9번핀
@@ -28,11 +28,10 @@ void setup() {
   // Enable Interrupt
   sei();
 
-  //Serial.begin(9600);
+  Serial.begin(9600);
 }
-
 void loop() {
-  //Serial.println(coinCount);
+  Serial.println(coinCount);
 
   if(coinCount == 0){
     PORTB &= ~LED_1; // turn off
@@ -49,7 +48,6 @@ void loop() {
 
   delay(50);
 }
-
 // INT0 Interrupt for IR sensor
 ISR(INT0_vect){
   unsigned long currentTime = millis(); // 현재 시간 가져오기
