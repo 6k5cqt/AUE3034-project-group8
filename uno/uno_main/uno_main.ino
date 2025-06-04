@@ -8,8 +8,6 @@ volatile int coinCount = 0; // 인식한 동전 개수
 volatile unsigned long lastSensorTriggerTime = 0; // 센서 마지막 감지 시간 저장
 const unsigned long debounceDelayTime = 100; // 센서 디바운싱 시간 밀리초
 
-volatile bool resetFlag = false;   // 동전 인터럽트로 게임 재시작 플래그
-
 
 // --- 가위바위보 관련 ---
 enum RPS { SCISSORS = 0, ROCK = 1, PAPER = 2 };
