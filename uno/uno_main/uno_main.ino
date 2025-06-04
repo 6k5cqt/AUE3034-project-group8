@@ -11,7 +11,6 @@ const unsigned long debounceDelayTime = 100; // 센서 디바운싱 시간 밀�
 
 // --- 가위바위보 관련 ---
 enum RPS { SCISSORS = 0, ROCK = 1, PAPER = 2 };
-const char* rpsStr[3] = {"가위", "바위", "보"};
 
 
 // --- 함수 ---
@@ -67,6 +66,8 @@ void loop() {
 
       String userInput = Serial.readStringUntil('\n'); // 가위바위보 입력
       userInput.trim();
+
+      resetGameState(); // 게임 표시 상태 초기화
 
       // --- 플레이어 값 변환 ---
       int playerChoice = 3;
